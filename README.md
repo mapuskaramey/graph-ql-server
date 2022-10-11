@@ -4,10 +4,10 @@
 2. Run `npm install` to install necessary packages on local
 
 3. create .gitignore file & add below code,
-    # ignore directory lists
+    #ignore directory lists
     node_modules/
 
-    # ignore file lists
+    #ignore file lists
     package-lock.json
 
     .gitignore
